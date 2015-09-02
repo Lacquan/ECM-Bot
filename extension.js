@@ -98,7 +98,7 @@
       rulesLink: "http://ecmusic.elementfx.com/index.php/board,18.0.html",
       themeLink: null,
       fbLink: "https://www.facebook.com/pages/Explosives-Camp-Of-Music/162362167434651",
-      youtubeLink: null,
+      youtubeLink: "https://www.youtube.com/channel/UCyl3z1tNheZCo9cvGwxmKHA",
       website: null,
       intervalMessages: [],
       messageInterval: 5,
