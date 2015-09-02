@@ -99,7 +99,7 @@
       themeLink: null,
       fbLink: "https://www.facebook.com/pages/Explosives-Camp-Of-Music/162362167434651",
       youtubeLink: "https://www.youtube.com/channel/UCyl3z1tNheZCo9cvGwxmKHA",
-      website: null,
+      website: "https://en.wikipedia.org/wiki/Explosive%27s_Camp_Of_Music",
       intervalMessages: [],
       messageInterval: 5,
       songstats: true,
