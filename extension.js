@@ -99,6 +99,7 @@
       themeLink: null,
       fbLink: "https://www.facebook.com/pages/Explosives-Camp-Of-Music/162362167434651",
       youtubeLink: "https://www.youtube.com/channel/UCyl3z1tNheZCo9cvGwxmKHA",
+      forum: "http://ecmusic.elementfx.com",
       website: "http://plugdjecm.elementfx.com/",
       intervalMessages: [],
       messageInterval: 5,
